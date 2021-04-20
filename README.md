@@ -1,2 +1,2 @@
 # SomeExercisesforLinux
- here are some exercises code for Linux
+ here are some my exercises code for Linux
